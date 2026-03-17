@@ -92,10 +92,6 @@ jupyter notebook app.ipynb
 └── README.md            # Este archivo
 ```
 
-## Autor
-
-**Yiovan** — [GitHub](https://github.com/YIO)
-
 ---
 
 > Parte de la serie **Challenges Penguin — The Huddle**
